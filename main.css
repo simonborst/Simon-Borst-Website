@@ -7,7 +7,7 @@ body {
 .jumbotron {
   display: flex;
   align-items: center;
-
+  background-image: url('images/whale-backdrop.jpg');
   background-size: cover;
   color: #ffffff;
   height: 500px;
