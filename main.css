@@ -1,13 +1,55 @@
+body{
 
-body {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 300;
+	background-image: 
+		url('images/background/whale-tail-backdrop.jpg');
+	background-size: cover;
+	color: white;
+	height: 100%;
+	padding-top: 70px;
+
 }
 
-.jumbotron {
-  display: flex;
-  align-items: center;
-  background-image: url('images/whale-backdrop.jpg');
-  background-size: cover;
-  height: 100%;
+h1{
+
+
 }
+
+h2{
+
+
+}
+
+p{
+	width: 100%;
+}
+
+.hero {
+
+
+}
+
+.menu {
+	align-content: center;
+}
+
+section .row img {
+	padding: 0px;
+	color: #fff;
+	opacity: 0.5;
+	width: 100%;
+}
+
+.container{
+	padding-left:0;
+}
+
+
+
+
+
+
+
+
+
+
+
