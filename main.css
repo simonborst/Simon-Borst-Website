@@ -3,33 +3,43 @@ body{
 	background-image: 
 		url('images/background/whale-tail-backdrop.jpg');
 	background-size: cover;
-	color: white;
+	background-
+	#color: white;
 	height: 100%;
 	padding-top: 70px;
+	font-family: 'Lato', sans-serif;
 
 }
-
 h1{
-
-
+	font-size: 82px;
+	font-weight: 300;
 }
-
 h2{
-
-
+	font-size: 30px;
+	font-weight: 200;
+}
+.page-title {
+  text-align: center;
+  color: white;
+  
 }
 
-p{
-	width: 100%;
+.page-description {
+  color: #1e1e1e;
+  border: 1px solid color: white;
+  background-color: rgba(255, 255, 255, .7);
+  margin-top: 100px;
+  text-align: center;
+  padding:50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  font-weight: 300;
+  font-size: 22px;
+  
 }
 
-.hero {
-
-
-}
-
-.menu {
-	align-content: center;
+nav {
+	opacity: 0.9;
 }
 
 section .row img {
@@ -39,9 +49,6 @@ section .row img {
 	width: 100%;
 }
 
-.container{
-	padding-left:0;
-}
 
 
 
